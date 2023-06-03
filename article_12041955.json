@@ -1,0 +1,7 @@
+{
+    "articleURL": "/wires/reuters/article-12041955/Meta-says-ChatGPT-related-malware-rise.html",
+    "content": [
+        "By Katie Paul",
+        "May 3 (Reuters) - Facebook owner Meta said on Wednesday it had uncovered malware purveyors leveraging public interest in ChatGPT to lure users into downloading malicious apps and browser extensions, likening the phenomenon to cryptocurrency scams.Since March, the social media giant has found around 10 malware families and more than 1,000 malicious links that were promoted as tools featuring the popular artificial intelligence-powered chatbot, it said in a report.In some cases, the malware delivered working ChatGPT functionality alongside abusive files, the company said.Speaking at a press briefing on the report, Meta Chief Information Security Officer Guy Rosen said that for bad actors, \"ChatGPT is the new crypto.\"Rosen and other Meta executives said the company was preparing its defenses for a variety of potential abuses linked to generative AI technologies like ChatGPT, which can quickly create human-like writing, music and art.Lawmakers have flagged the tools as likely to make online disinformation campaigns easier to propagate.Asked if generative AI was already being used in information operations, the executives said it was still early, though Rosen said he expected \"bad actors\" to use the technologies to \"try to speed up and perhaps scale up\" their activities. (Reporting by Katie Paul; Editing by Sandra Maler)"
+    ]
+}
